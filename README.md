@@ -1,5 +1,5 @@
 # Phenology_Indicators
- This repository contains Time of Emergence (ToE) phenology test examples for review/submission. Scripts are as follows:
+ This repository contains Time of Emergence (ToE) phenology test examples and figures for the manuscript "A new approach for detecting phenological change using Time of Emergence (ToE) methodology", published in Methods in Ecology and Evolution. Scripts are as follows:
 
 ## `Bfly Initial.R`
  Pre-processing for UKBMS data
